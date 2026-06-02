@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun install:*)",
+      "Bash(xxd \"c:/Users/user/OneDrive/Desktop/Dinely/khawalagbe/public/favicon.ico\")",
+      "Bash(find \"c:\\\\Users\\\\user\\\\OneDrive\\\\Desktop\\\\Dinely\\\\khawalagbe/src\" -type f \\\\\\( -name \"*.ts\" -o -name \"*.tsx\" \\\\\\) -exec grep -l \"projects\\\\|portfolio\\\\|showcase\\\\|work\\\\|case\" {} \\\\;)"
+    ]
+  }
+}
